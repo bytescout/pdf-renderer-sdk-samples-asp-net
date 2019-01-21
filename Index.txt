@@ -1,26 +1,2 @@
 ## Index of source code examples:
 
-\PDF To PNG
-\PDF to TIFF multipaged
-\_Web API
-\_Web API\PDF To Image
-\_Web API\PDF To Image\C#
-\_Web API\PDF To Image\VB.NET
-\_Web API\PDF To Image\C#\Convert PDF To JPEG From Uploaded File
-\_Web API\PDF To Image\C#\Convert PDF To JPEG From URL
-\_Web API\PDF To Image\C#\Convert PDF To JPEG From URL Asynchronously
-\_Web API\PDF To Image\C#\Convert PDF To PNG From Uploaded File
-\_Web API\PDF To Image\C#\Convert PDF To PNG From URL
-\_Web API\PDF To Image\C#\Convert PDF To PNG From URL Asynchronously
-\_Web API\PDF To Image\C#\Convert PDF To TIFF From Uploaded File
-\_Web API\PDF To Image\C#\Convert PDF To TIFF From URL
-\_Web API\PDF To Image\C#\Convert PDF To TIFF From URL Asynchronously
-\_Web API\PDF To Image\VB.NET\Convert PDF To JPEG From Uploaded File
-\_Web API\PDF To Image\VB.NET\Convert PDF To JPEG From URL
-\_Web API\PDF To Image\VB.NET\Convert PDF To JPEG From URL Asynchronously
-\_Web API\PDF To Image\VB.NET\Convert PDF To PNG From Uploaded File
-\_Web API\PDF To Image\VB.NET\Convert PDF To PNG From URL
-\_Web API\PDF To Image\VB.NET\Convert PDF To PNG From URL Asynchronously
-\_Web API\PDF To Image\VB.NET\Convert PDF To TIFF From Uploaded File
-\_Web API\PDF To Image\VB.NET\Convert PDF To TIFF From URL
-\_Web API\PDF To Image\VB.NET\Convert PDF To TIFF From URL Asynchronously
